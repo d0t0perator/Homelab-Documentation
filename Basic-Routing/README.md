@@ -6,9 +6,7 @@ Documentation for basic routing labs.
 Set up a basic network with a single router and a PC , test connectivity using static IP configuration
 
 ##Topology
-## Topology
-## Topology
-![Topology](./Basic-Routing/Screenshot (4).png)
+![Topology](./Basic-Routing/Screenshot(4).png)
 
 
 
@@ -23,15 +21,15 @@ Set up a basic network with a single router and a PC , test connectivity using s
    no shutdown
    exit
    ## Topology
-![Topology](./Basic-Routing/Screenshot (7).png)
+![Topology](./Basic-Routing/Screenshot(7).png)
 
 
  2. ** Configure the PC:**
 ## Topology
-![Topology](./Basic-Routing/Screenshot (6).png)
+![Topology](./Basic-Routing/Screenshot(6).png)
 
 ## Topology
-![Topology](./Basic-Routing/Screenshot (8).png)
+![Topology](./Basic-Routing/Screenshot(8).png)
 
 IP Address: 192.168.1.2
 Subnet Mask: 255.255.255.0
@@ -43,7 +41,7 @@ Default Gateway: 192.168.1.1
 Successful results indicate the setup is correct.
 
 ## Topology
-![Topology](./Basic-Routing/Screenshot (10).png)
-![Topology](./Basic-Routing/Screenshot (11).png)
+![Topology](./Basic-Routing/Screenshot(10).png)
+![Topology](./Basic-Routing/Screenshot(11).png)
 
 
