@@ -5,7 +5,7 @@ Documentation for basic routing labs.
 ## Objective
 Set up a basic network with a single router and a PC , test connectivity using static IP configuration
 
-![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(10).png?raw=true)
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20().png?raw=true)
 
 
 ## Steps
