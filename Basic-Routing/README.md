@@ -19,12 +19,13 @@ Set up a basic network with a single router and a PC , test connectivity using s
    no shutdown
    exit
 
-
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(7).png?raw=true)
 
 
  2. ** Configure the PC:**
 
-
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(6).png?raw=true)
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(8).png?raw=true)
 
 
 
@@ -37,6 +38,8 @@ Default Gateway: 192.168.1.1
    ping from PC to router
    ping 192.168.1.1
 Successful results indicate the setup is correct.
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(10).png?raw=true)
+![Alt text](https://github.com/d0t0perator/Homelab-Documentation/blob/main/Basic-Routing/Basic%20Routing/Screenshot%20(11).png?raw=true)
 
 
 
