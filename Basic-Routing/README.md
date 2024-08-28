@@ -4,7 +4,7 @@ Documentation for basic routing labs.
 
 ## Objective
 Set up a basic network with a single router and a PC , test connectivity using static IP configuration
-![Description of Screenshot](Basic-Routing/Screenshot%20(3).png)
+
 
 
 
